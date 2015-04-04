@@ -14,6 +14,31 @@ public class Fatorial {
   System.out.println("Fatorial");
   System.out.println("Fatorial");
   System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");
+  System.out.println("Fatorial");
  }
 
 }
