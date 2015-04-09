@@ -1,7 +1,7 @@
 public class Fatorial {
  
  public static void main(String []args) {
-      System.out.println("Fdasdasatorial");
+      System.out.println("Conflito");
  }
 
 }
